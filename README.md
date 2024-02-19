@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  I'm not a programmer, but a consumer just trying out stuff and thing.
-  <br>
-  But I sometimes contribute, since I have little experience on some programming languages.
-</p>
-<!-- Cannot stress the 'little' enough lel -->
-<br>
+
+I'm not a developer, but a consumer just trying out stuff and things.
+But I sometimes contribute, since I have <i>little</i> experience on some programming languages.
+
+## Notes
+* I rarely contribute. Most of the repositories i contribute are mostly joke repositories.
+* I'm trying my best to learn on how to use git. Trust me I'm still learning.. (´・ω・`)
